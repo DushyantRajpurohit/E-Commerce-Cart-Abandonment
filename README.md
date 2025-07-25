@@ -15,12 +15,12 @@ This project presents an interactive dashboard and machine learning model to ana
 
 ## Key Insights
 
-- **Accessories** have a high abandonment rate — potential opportunity for discount nudges.
+- **Accessories** have a high abandonment rate - potential opportunity for discount nudges.
 - **Mobile users** tend to abandon carts more often, likely due to poor UX or payment issues.
 - A large share of users are **female**, which can guide product-based campaigns.
-- **Social media referrals** have lower purchase intent — consider targeted remarketing.
-- **Virginia** sees the highest abandonment; **New York** the least — useful for regional targeting.
-- **No Guest Checkout** is the top reason for abandonment — a clear UX fix opportunity.
+- **Social media referrals** have lower purchase intent - consider targeted remarketing.
+- **Virginia** sees the highest abandonment; **New York** the least - useful for regional targeting.
+- **No Guest Checkout** is the top reason for abandonment - a clear UX fix opportunity.
 
 ---
 
@@ -63,7 +63,7 @@ This project presents an interactive dashboard and machine learning model to ana
 
 - **Python**
 - **Pandas, Plotly, Seaborn, Scikit-learn**
-- **Streamlit** – for interactive dashboard
+- **Streamlit** - for interactive dashboard
 
 ---
 
