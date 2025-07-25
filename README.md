@@ -32,6 +32,8 @@ This project presents an interactive dashboard and machine learning model to ana
 | Abandoned Users | Users who abandoned cart |
 | Abandonment Rate | % of users who did not complete checkout |
 | Avg. Cart Value | Average value of carts |
+| Total Cart Value | Total value of carts |
+| Total Abandoned Cart Value | Total value of abandoned carts |
 | Avg. Session Duration | How long users stayed in session |
 | Filters | Device Type, Gender, Referral Medium, Week, Day |
 
@@ -40,6 +42,7 @@ This project presents an interactive dashboard and machine learning model to ana
 ## Visualizations
 
 - Purchase Category by Cart Status
+- Cart Status Distribution
 - Abandonment Reason
 - Demographic breakdown (Gender, Location, Referral, Device)
 - Weekly & Day-wise trends
@@ -50,7 +53,7 @@ This project presents an interactive dashboard and machine learning model to ana
 ## Machine Learning (Prototype)
 
 - **Goal:** Predict whether a user will abandon cart or not
-- **Model Used:** Random Forest, GridSearchCV
+- **Model Used:** Random Forest, Logistic Regression, SVM, XGB Classifier, GridSearchCV
 - **Accuracy:** ~50% (due to limited data features)
 - **Improvement:** Richer data like clickstream, page views, pricing sensitivity, promo codes, etc.
 
