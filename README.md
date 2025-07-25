@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Cart Abandonment Dashboard & ML Analysis
+# E-Commerce Cart Abandonment Dashboard & ML Analysis
 
 This project presents an interactive dashboard and machine learning model to analyze and predict **cart abandonment behavior** in an e-commerce setting. It helps businesses understand **why users abandon carts**, identify key patterns, and take **proactive steps** like targeted offers to improve conversion rates.
 
