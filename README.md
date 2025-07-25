@@ -71,4 +71,4 @@ This project presents an interactive dashboard and machine learning model to ana
 pip install -r requirements.txt
 
 # 2. Run Streamlit App
-streamlit run dashboard.py
+streamlit run e_commerce_cart_abandonment_dashboard.py
