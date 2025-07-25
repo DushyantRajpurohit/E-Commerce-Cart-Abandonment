@@ -56,7 +56,7 @@ This project presents an interactive dashboard and machine learning model to ana
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Python**
 - **Pandas, Plotly, Seaborn, Scikit-learn**
@@ -64,9 +64,9 @@ This project presents an interactive dashboard and machine learning model to ana
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
-
+```bash
 # 1. Install dependencies
 pip install -r requirements.txt
 
