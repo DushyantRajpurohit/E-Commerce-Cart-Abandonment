@@ -4,7 +4,7 @@ This project presents an interactive dashboard and machine learning model to ana
 
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 - Analyze user session behavior and identify abandonment trends.
 - Visualize key metrics such as cart value, demographics, and device preferences.
@@ -13,7 +13,7 @@ This project presents an interactive dashboard and machine learning model to ana
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - **Accessories** have a high abandonment rate — potential opportunity for discount nudges.
 - **Mobile users** tend to abandon carts more often, likely due to poor UX or payment issues.
@@ -24,30 +24,30 @@ This project presents an interactive dashboard and machine learning model to ana
 
 ---
 
-## 🧮 Features & KPIs
+## Features & KPIs
 
 | KPI | Description |
 |-----|-------------|
-| ✅ Total Users | All sessions analyzed |
-| ❌ Abandoned Users | Users who abandoned cart |
-| 📉 Abandonment Rate | % of users who did not complete checkout |
-| 💰 Avg. Cart Value | Average value of carts |
-| 🕒 Avg. Session Duration | How long users stayed in session |
-| 📆 Filters | Device Type, Gender, Referral Medium, Week, Day |
+| Total Users | All sessions analyzed |
+| Abandoned Users | Users who abandoned cart |
+| Abandonment Rate | % of users who did not complete checkout |
+| Avg. Cart Value | Average value of carts |
+| Avg. Session Duration | How long users stayed in session |
+| Filters | Device Type, Gender, Referral Medium, Week, Day |
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 - Purchase Category by Cart Status
-- Abandonment Reason (if available)
+- Abandonment Reason
 - Demographic breakdown (Gender, Location, Referral, Device)
 - Weekly & Day-wise trends
 - Cart Content distribution
 
 ---
 
-## 🧠 Machine Learning (Prototype)
+## Machine Learning (Prototype)
 
 - **Goal:** Predict whether a user will abandon cart or not
 - **Model Used:** Random Forest, GridSearchCV
@@ -66,13 +66,9 @@ This project presents an interactive dashboard and machine learning model to ana
 
 ## 🚀 How to Run
 
-```bash
-# 1. Clone this repo
-git clone https://github.com/yourusername/cart-abandonment-dashboard.git
-cd cart-abandonment-dashboard
 
-# 2. Install dependencies
+# 1. Install dependencies
 pip install -r requirements.txt
 
-# 3. Run Streamlit App
+# 2. Run Streamlit App
 streamlit run dashboard.py
